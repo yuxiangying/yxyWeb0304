@@ -20,7 +20,7 @@ package com.freemarker;
 public class BubbleSort {
 	public static void main(String[] args) {
 		int[] arr={6,3,8,2,9,1};
-		System.out.println("排序前数组为：");
+		System.out.println("排序前 数组为：");
 		for(int num:arr){
 			System.out.print(num+" ");
 		}
